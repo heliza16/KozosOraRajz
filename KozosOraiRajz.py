@@ -16,4 +16,20 @@ turtle.color("magenta")
 turtle.setheading(90)
 turtle.forward(200)
 
+#harmadik mutattó
+turtle.left(180)
+turtle.penup()
+turtle.forward(200)
+turtle.pendown()
+turtle.color("skyblue")
+turtle.pensize(15)
+turtle.left(130)
+turtle.forward(200)
+turtle.left(180)
+turtle.forward(200)
+turtle.left(30)
+turtle.color("black")
+turtle.right(160)
+
+
 turtle.done()
