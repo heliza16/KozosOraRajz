@@ -1,10 +1,11 @@
 import turtle
 
+#Liza első óra mutató vonal megrajzolása
+turtle.color("green")
 turtle.left(130)
 turtle.forward(200)
 turtle.right(90)
-turtle.forward(20)
-turtle.right(90)
+
 
 #Mária második óra mutató vonal megrajzolása
 turtle.penup()
